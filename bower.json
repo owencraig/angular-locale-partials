@@ -1,6 +1,7 @@
 {
   "name": "angular-locale-partials",
   "description": "",
+  "version": "1.0.0",
   "main": "index.js",
   "authors": [
     "Owen Craig <owen@owencraig.com>"
