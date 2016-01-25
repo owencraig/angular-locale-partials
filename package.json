@@ -1,0 +1,18 @@
+{
+  "name": "angular-locale-partials",
+  "version": "1.4.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-i18n": "^1.4.9"
+  },
+  "devDependencies": {
+    "denodeify": "^1.2.1",
+    "lodash": "^4.0.1"
+  }
+}
