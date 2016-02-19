@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular-i18n": "^1.4.9"
+    "angular-i18n": "~1.4.9"
   },
   "devDependencies": {
     "denodeify": "^1.2.1",
